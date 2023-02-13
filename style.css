@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(35, 0, 233);
+}
+
+header {
+    padding-top: 20px;
+}
+
+section {
+    display: block;
+    margin: 80px auto;
+    text-align: center;
+    background-color: rgb(33, 155, 155);
+   }
+
+.pwg {
+    padding: 20px;
+}
+
+button {
+    padding: 5px;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight:100;
+    background-color: rgb(13, 47, 238);
+    color: white;
+    border-color: white;
+}
+
